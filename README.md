@@ -9,6 +9,7 @@ Here are some of the technologies I’m currently exploring:
 
 <div>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/PL--SQL-316192?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
   <img src="https://img.shields.io/badge/APEX-FF9A00?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle APEX" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
