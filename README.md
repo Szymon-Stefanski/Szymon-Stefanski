@@ -35,7 +35,7 @@ I'm focusing on enhancing my skills in:
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-stefański-499521324/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-stefanski/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymonstefanski1@gmail.com)
 
 Thanks for visiting! 🙌 Feel free to check out my projects and connect with me if you're interested in collaborating! 😊
