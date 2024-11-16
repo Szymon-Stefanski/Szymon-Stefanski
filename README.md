@@ -26,6 +26,7 @@ I'm focusing on enhancing my skills in:
 - Exploring **low-code** development platforms like **Oracle APEX**, to create applications more efficiently.
 - Frontend development using **HTML**, **CSS**, and **JavaScript**.
 - Building responsive web applications.
+- Learning **Python**, particularly for automation tasks such as streamlining workflows, managing files, and creating utility scripts.
   
 ## 📊 GitHub stats:
 
