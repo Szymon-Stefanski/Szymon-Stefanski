@@ -5,7 +5,6 @@ I love learning new technologies and applying them to real-world problems.
 
 ## 🛠️ Technologies & tools I work with:
 
-
 Here are some of the technologies I’m currently exploring:
 
 <div>
