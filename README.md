@@ -26,7 +26,7 @@ I'm focusing on enhancing my skills in:
 - Exploring **low-code** development platforms like **Oracle APEX**, to create applications more efficiently.
 - Frontend development using **HTML**, **CSS**, and **JavaScript**.
 - Learning **Python**, particularly for automation tasks such as streamlining workflows, managing files, and creating utility scripts.
-- Exploring Arduino for hobby projects and understanding hardware-software integration.
+- Exploring **Arduino** for hobby projects and understanding hardware-software integration.
   
 ## 📊 GitHub stats:
 
