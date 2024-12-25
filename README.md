@@ -1,6 +1,6 @@
 # 👋 Glad to see you here!
 
-I'm Szymon, a 3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology. 
+I'm Szymon, a 3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology.
 I love learning new technologies and applying them to real-world problems.
 
 ## 🛠️ Technologies & tools I work with:
@@ -23,11 +23,10 @@ Here are some of the technologies I’m currently exploring:
 I'm focusing on enhancing my skills in:
 
 - Database management and optimization with **Oracle SQL** and **PL/SQL**.
-- Exploring **low-code** development platforms like **Oracle APEX**, to create applications more efficiently.
 - Frontend development using **HTML**, **CSS**, and **JavaScript**.
 - Learning **Python**, particularly for automation tasks such as streamlining workflows, managing files, and creating utility scripts.
 - Exploring **Arduino** for hobby projects and understanding hardware-software integration.
-  
+
 ## 📊 GitHub stats:
 
 <div align="center">
