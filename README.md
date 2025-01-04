@@ -22,9 +22,9 @@ Here are some of the technologies I’m currently exploring:
 
 I'm focusing on enhancing my skills in:
 
+- Learning **Python** and **Bash**, particularly for automation tasks such as streamlining workflows, managing files, and creating utility scripts.
 - Database management and optimization with **Oracle SQL** and **PL/SQL**.
 - Frontend development using **HTML**, **CSS**, and **JavaScript**.
-- Learning **Python**, particularly for automation tasks such as streamlining workflows, managing files, and creating utility scripts.
 - Exploring **Arduino** for hobby projects and understanding hardware-software integration.
 
 ## 📊 GitHub stats:
