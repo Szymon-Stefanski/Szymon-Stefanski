@@ -1,42 +1,41 @@
-# 👋 Glad to see you here!
+# 🚀 About Me  
 
-I'm Szymon, a 3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology.
-I love learning new technologies and applying them to real-world problems.
+I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, automation, and databases**.
 
-## 🛠️ Technologies & tools I work with:
+Currently, I’m a **3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology**, specializing in **Artificial Intelligence**.  
 
-Here are some of the technologies I’m currently exploring:
+I thrive on challenges and constantly push myself to **learn, build, and innovate**.  
+My focus? **Python, Linux, automation, and databases**, with a strong interest in **MLOps and cloud computing**.  
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PL--SQL-316192?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-</div>
 
-## 📚 What I’m learning:
+## 🛠️ Tech Stack   
 
-I'm focusing on enhancing my skills in:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,sqlite,git,sql" />
+</p>
 
-- Learning **Python** and **Bash**, particularly for automation tasks such as streamlining workflows, managing files, and creating utility scripts.
-- Database management and optimization with **Oracle SQL** and **PL/SQL**.
-- Frontend development using **HTML**, **CSS**, and **JavaScript**.
-- Exploring **Arduino** for hobby projects and understanding hardware-software integration.
+## 🔥 What I'm working on  
 
-## 📊 GitHub stats:
+- 🚀 **Developing Python & Bash skills** – automating workflows, scripting, and backend development to streamline processes.  
+- 📊 **Deepening my understanding of Databases** – learning to optimize performance with **Oracle SQL & PL/SQL**.  
+- 🧪 **Exploring Test Automation** – gaining hands-on experience with **Robot Framework & Pytest** for reliable testing.  
+- 🖥️ **Expanding my Full-Stack knowledge** – improving frontend development with **HTML, CSS, and JavaScript**.   
+- 🤖 **Driven by AI & Machine Learning** – just getting started, learning machine learning, NLP, and model optimization, with plans to work on my first projects to solve practical problems. 
+- 🧠 **Always striving for more** – staying up-to-date with AI, cloud computing, and automation to grow as an engineer.  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Szymon-Stefanski&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-stefanski/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:szymonstefanski1@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/szymon-stefanski/">
+    <img src="https://img.icons8.com/ios/50/0A66C2/linkedin.png" alt="LinkedIn" />
+  </a>
+  <a href="mailto:szymonstefanski1@gmail.com">
+    <img src="https://img.icons8.com/ios/50/D14836/gmail.png" alt="Gmail" />
+  </a>
+  <a href="https://www.szymonstefanski.com">
+    <img src="https://img.icons8.com/ios/50/000000/artificial-intelligence.png" alt="AI Website" />
+  </a>
+</p>
 
 Thanks for visiting! 🙌 Feel free to check out my projects and connect with me if you're interested in collaborating! 😊
-
-![Profile Views](https://komarev.com/ghpvc/?username=Szymon-Stefanski&color=blue)
