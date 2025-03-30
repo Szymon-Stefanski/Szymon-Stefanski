@@ -7,7 +7,7 @@ Currently, I’m a **3rd-year Computer Science student at the Polish-Japanese Ac
 I thrive on challenges and constantly push myself to **learn, build, and innovate**.  
 My focus? **Python, Linux, Bash, automation, and databases**, with a strong and growing interest in **MLOps and cloud computing**.  
 
-I'm also love reading books - currently I read: 
+I also love reading books – currently, I have been reading: 
 
 **Sebastian Raschka, Vahid Mirjalili "Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Third Edition"**
 
