@@ -5,7 +5,11 @@ I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, automati
 Currently, I’m a **3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology**, specializing in **Artificial Intelligence**.  
 
 I thrive on challenges and constantly push myself to **learn, build, and innovate**.  
-My focus? **Python, Linux, Bash, automation, and databases**, with a strong and growing interest in **MLOps and cloud computing**.  
+My focus? **Python, Linux, Bash, automation, and databases**, with a strong and growing interest in **MLOps and cloud computing**.
+
+I’m constantly learning and working on improving my programming skills. I am currently taking the course: 
+
+**RH124 - Red Hat System Administration I**
 
 I also love reading books – currently, I have been reading: 
 
