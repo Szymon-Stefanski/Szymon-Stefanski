@@ -18,7 +18,7 @@ I also love reading books – currently, I have been reading:
 ## 🛠️ Tech Stack   
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,sqlite,git,sql" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,sqlite,git,docker" />
 </p>
 
 ## 🔥 What I'm working on  
