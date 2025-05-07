@@ -4,9 +4,6 @@ I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, automati
 
 Currently, I’m a **3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology**, specializing in **Artificial Intelligence**.  
 
-I thrive on challenges and constantly push myself to **learn, build, and innovate**.  
-My focus? **Python, Linux, Bash, automation, and databases**, with a strong and growing interest in **MLOps and cloud computing**.
-
 I’m constantly learning and working on improving my programming skills. I am currently taking the course: 
 
 **RH124 - Red Hat System Administration I**
@@ -20,15 +17,6 @@ I also love reading books – currently, I have been reading:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,sqlite,git,docker" />
 </p>
-
-## 🔥 What I'm working on  
-
-- 🚀 **Developing Python & Bash skills** – automating workflows, scripting, and backend development to streamline processes.  
-- 📊 **Deepening my understanding of Databases** – learning to optimize performance with **Oracle SQL & PL/SQL**.  
-- 🧪 **Exploring Test Automation** – gaining hands-on experience with **Robot Framework & Pytest** for reliable testing.  
-- 🖥️ **Expanding my Full-Stack knowledge** – improving frontend development with **HTML, CSS, and JavaScript**.   
-- 🤖 **Driven by AI & Machine Learning** – just getting started, learning machine learning, NLP, and model optimization, with plans to work on my first projects to solve practical problems. 
-- 🧠 **Always striving for more** – staying up-to-date with AI, cloud computing, and automation to grow as an engineer.  
 
 
 ## 🔗 Connect with me:
