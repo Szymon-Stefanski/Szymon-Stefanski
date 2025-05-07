@@ -2,8 +2,6 @@
 
 I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, automation, and databases**.
 
-Currently, I’m a **3rd-year Computer Science student at the Polish-Japanese Academy of Information Technology**, specializing in **Artificial Intelligence**.  
-
 I’m constantly learning and working on improving my programming skills. I am currently taking the course: 
 
 **RH124 - Red Hat System Administration I**
@@ -11,13 +9,6 @@ I’m constantly learning and working on improving my programming skills. I am c
 I also love reading books – currently, I have been reading: 
 
 **Sebastian Raschka, Vahid Mirjalili "Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Third Edition"**
-
-## 🛠️ Tech Stack   
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,flask,html,css,js,sqlite,git,docker" />
-</p>
-
 
 ## 🔗 Connect with me:
 
