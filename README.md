@@ -1,6 +1,6 @@
 # About Me  
 
-I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, automation, and databases**.
+I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, programming and working with data**.
 
 I’m constantly learning and working on improving my programming skills. I am currently taking the course: 
 
