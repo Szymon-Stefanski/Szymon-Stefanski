@@ -2,9 +2,11 @@
 
 I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, programming and working with data**.
 
-I’m constantly learning and working on improving my programming skills. I am currently taking the course: 
+I am continuously developing my programming skills and currently enrolled in the following courses:
 
 **RH124 - Red Hat System Administration I**
+
+**AWS2501 AWS Fundamentals**
 
 I also love reading books – currently, I have been reading: 
 
