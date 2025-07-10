@@ -6,8 +6,6 @@ I am continuously developing my programming skills and currently enrolled in the
 
 **RH124 - Red Hat System Administration I**
 
-**AWS2501 AWS Fundamentals**
-
 I also love reading books – currently, I have been reading: 
 
 **Sebastian Raschka, Vahid Mirjalili "Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Third Edition"**
