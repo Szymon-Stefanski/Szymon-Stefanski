@@ -1,6 +1,6 @@
 # About Me  
 
-I'm an ambitious **Aspiring Software Engineer**, passionate about **AI, programming and working with data**.
+**Ambitious Software Engineer**, currently working as a **Web Developer**, passionate about **programming, data, and artificial intelligence**. 
 
 # Connect with me:
 
