@@ -1,13 +1,21 @@
-# About Me  
+### Hi, I'm Szymon Stefański
 
-**Ambitious Software Engineer**, currently working as a **Web Developer**, passionate about **programming, data, and artificial intelligence**. 
+**Web Developer** currently managing and developing the website of a sports store.  
+Aspiring **Software Engineer** passionate about building reliable and efficient applications.  
+Focused on improving backend development and exploring how AI can enhance software performance and decision-making.
 
-# Connect with me:
+---
 
-https://www.linkedin.com/in/szymon-stefanski/
+### Tech Stack
+**Languages:** Python, JavaScript, SQL  
+**Tools & Tech:** Git, Linux, REST APIs, HTML, CSS, CI/CD basics  
+**Currently learning:** Software design patterns, database optimization, machine learning
 
-szymonstefanski1@gmail.com
+---
 
-https://www.szymonstefanski.com
+### Connect with me
+- **Website:** [szymonstefanski.com](https://www.szymonstefanski.com)  
+- **LinkedIn:** [linkedin.com/in/szymon-stefanski](https://www.linkedin.com/in/szymon-stefanski/)  
+- **Email:** szymonstefanski1@gmail.com  
 
-Thanks for visiting! 🙌 Feel free to check out my projects and connect with me if you're interested in collaborating! 😊
+Thanks for visiting! Feel free to check out my projects — I’m always open to feedback and collaboration.
