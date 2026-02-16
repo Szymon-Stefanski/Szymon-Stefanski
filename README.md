@@ -9,7 +9,7 @@ Focused on improving backend development and exploring how AI can enhance softwa
 ### Tech Stack
 **Languages:** Python, JavaScript, SQL  
 **Tools & Tech:** Git, Linux, REST APIs, HTML, CSS, CI/CD basics  
-**Currently learning:** Software design patterns, database optimization, machine learning
+**Currently learning:** Software design patterns, vector databases and machine learning
 
 ---
 
