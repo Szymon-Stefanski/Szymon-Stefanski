@@ -1,6 +1,5 @@
 ### Hi, I'm Szymon Stefański
 
-**Web Specialist** currently managing and developing the website of a sports store.  
 Aspiring **Software Engineer** passionate about building reliable and efficient applications.  
 Focused on improving backend development and exploring how AI can enhance software performance and decision-making.
 
