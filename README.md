@@ -1,6 +1,6 @@
 ### Hi, I'm Szymon Stefański
 
-Aspiring **Software Engineer** passionate about building reliable and efficient applications.  
+**Software Engineer** passionate about building reliable and efficient applications.  
 Focused on improving backend development and exploring how AI can enhance software performance and decision-making.
 
 ---
