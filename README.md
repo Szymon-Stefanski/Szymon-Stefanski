@@ -1,14 +1,27 @@
 ### Hi, I'm Szymon Stefański
 
-**Software Engineer** passionate about building reliable and efficient applications.  
-Focused on improving backend development and exploring how AI can enhance software performance and decision-making.
+**AI Engineering Student & Python Developer** Passionate about bridging the gap between classical software engineering and Machine Learning. Currently specializing in Artificial Intelligence at PJATK, focusing on building scalable AI-driven applications and automating data workflows.
 
 ---
 
-### Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**Tools & Tech:** Git, Linux, REST APIs, HTML, CSS, CI/CD basics  
-**Currently learning:** Software design patterns, vector databases and machine learning
+### Areas of interest
+- **Predictive Modeling:** Turning raw data into actionable insights using Machine Learning.
+- **AI Integration:** Implementing Generative AI and LLMs to enhance user experiences.
+- **Data Infrastructure:** Designing efficient databases and ensuring data integrity.
+- **Systems & Automation:** Leveraging my Linux background to build reliable and automated environments.
+
+---
+
+### Tech stack
+- **AI/ML:** Python (Scikit-learn, TensorFlow, Pandas, NumPy), Streamlit
+- **Data:** SQL (PL/SQL, Oracle), Vector Databases (learning)
+- **Infrastructure:** Linux (RedHat), Git, Docker, REST APIs, CI/CD basics
+- **Web:** JavaScript, HTML, CSS
+
+---
+
+### Featured projects
+**[Diabetes Risk Calculator](https://github.com/Szymon-Stefanski/DiabetesRiskCalculator)** *ML-powered web app using Scikit-learn and Streamlit to predict health risks based on clinical data. Includes automated testing with Pytest.*
 
 ---
 
@@ -16,5 +29,3 @@ Focused on improving backend development and exploring how AI can enhance softwa
 - **Website:** [szymonstefanski.com](https://www.szymonstefanski.com)  
 - **LinkedIn:** [linkedin.com/in/szymon-stefanski](https://www.linkedin.com/in/szymon-stefanski/)  
 - **Email:** szymonstefanski1@gmail.com  
-
-Thanks for visiting! Feel free to check out my projects — I’m always open to feedback and collaboration.
