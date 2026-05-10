@@ -1,11 +1,11 @@
 ### Hi, I'm Szymon Stefański
 
-**AI Engineering Student & Python Developer** Passionate about bridging the gap between classical software engineering and Machine Learning. Currently specializing in Artificial Intelligence at PJATK, focusing on building scalable AI-driven applications and automating data workflows.
+**Python Developer & AI Engineering Student** Passionate about classical software engineering and Machine Learning. Currently specializing in Artificial Intelligence at PJATK.
 
 ---
 
 ### Areas of interest
-- **Predictive Modeling:** Turning raw data into actionable insights using Machine Learning.
+- **Python Development:** Crafting clean, maintainable code with a focus on automation, system integration, and software craftsmanship.
 - **AI Integration:** Implementing Generative AI and LLMs to enhance user experiences.
 - **Data Infrastructure:** Designing efficient databases and ensuring data integrity.
 - **Systems & Automation:** Leveraging my Linux background to build reliable and automated environments.
@@ -13,7 +13,7 @@
 ---
 
 ### Tech stack
-- **AI/ML:** Python (Scikit-learn, TensorFlow, Pandas, NumPy), Streamlit
+- **Programming:** Python (Scikit-learn, TensorFlow, Pandas, NumPy), Streamlit
 - **Data:** SQL (PL/SQL, Oracle), Vector Databases (learning)
 - **Infrastructure:** Linux (RedHat), Git, Docker, REST APIs, CI/CD basics
 - **Web:** JavaScript, HTML, CSS
