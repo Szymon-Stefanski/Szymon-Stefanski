@@ -1,22 +1,22 @@
-### Hi, I'm Szymon Stefański
+### Hi, I'm Szymon Stefański 🚀
 
-**Python Developer & CS Student** Passionate about classical software engineering and Machine Learning.
+**System Administrator | M.Sc. IT Student @ UMG**  
 
 ---
 
 ### Areas of interest
-- **Python Development:** Crafting clean, maintainable code with a focus on automation, system integration, and software craftsmanship.
-- **AI Integration:** Implementing Generative AI and LLMs to enhance user experiences.
-- **Data Infrastructure:** Designing efficient databases and ensuring data integrity.
-- **Systems & Automation:** Leveraging my Linux background to build reliable and automated environments.
+- **Systems & Infrastructure:** Managing enterprise medical Kamsoft environment with a strong focus on security and infrastructure monitoring.
+- **Database Administration:** Managing, optimizing, and maintaining critical relational database system (Oracle SQL).
+- **Python Engineering & Automation:** Developing clean, maintainable backend code and writing robust automation scripts (Python, Bash) for system maintenance.
+- **AI & Data Integration:** Implementing Machine Learning models and leveraging data pipelines to optimize workflows and system analytics.
 
 ---
 
 ### Tech stack
+- **Infrastructure & Admin:** Red Hat Enterprise Linux (RHEL), Kamsoft, Git, Docker, CI/CD, Bash
+- **Databases:** Oracle Database, SQL, Vector Databases, PostgreSQL
 - **Programming:** Python, Streamlit
-- **Data:** SQL, Vector Databases
-- **Infrastructure:** Linux, Git, Docker, REST APIs, CI/CD basics
-- **Web:** JavaScript, HTML, CSS
+- **Web & APIs:** REST APIs, JavaScript, HTML, CSS
 
 ---
 
@@ -28,4 +28,4 @@
 ### Connect with me
 - **Website:** [szymonstefanski.com](https://www.szymonstefanski.com)  
 - **LinkedIn:** [linkedin.com/in/szymon-stefanski](https://www.linkedin.com/in/szymon-stefanski/)  
-- **Email:** szymonstefanski1@gmail.com  
+- **Email:** szymonstefanski1@gmail.com
