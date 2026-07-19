@@ -1,4 +1,4 @@
-### Hi, I'm Szymon Stefański 🚀
+### Hi, I'm Szymon Stefański
 
 **System Administrator | M.Sc. IT Student @ UMG**  
 
